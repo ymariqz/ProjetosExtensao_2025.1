@@ -61,7 +61,7 @@ nav ul li a {
 }
 
 .card button {
-  background-color: #4b8056;
+  background-color: #c73968;
   color: white;
   border: none;
   padding: 8px 12px;
@@ -72,12 +72,12 @@ nav ul li a {
 
 .apresentacao {
   text-align: center;
-  background-color:#f9ffd4;
+  background-color:#bd0c41;
   padding: 40px 20px;
   border-radius: 10px;
   margin: 20px auto;
   max-width: 800px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(214, 43, 66, 0.1);
   position: relative;
   overflow: hidden;
 }
@@ -89,7 +89,7 @@ nav ul li a {
 }
 
 .apresentacao button {
-  background-color: #4b8056;
+  background-color: #b3295e;
   color: white;
   padding: 10px 20px;
   border: none;
@@ -99,8 +99,8 @@ nav ul li a {
 
 .destaques {
   padding: 20px, 20px;
-  background-color: #f9ffd4;
-  border-top: 2px solid  #4b8056;;
+  background-color: #d60f5b;
+  border-top: 2px solid  #df7497;;
 }
 
 .destaques h3 {
