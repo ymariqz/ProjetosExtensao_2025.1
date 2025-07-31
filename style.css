@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-color: #c4ca70;
+  background-color: #ca708b;
   color: #333;
   max-width: 100%;
 }
 
 header {
   background-color:#fdffec;
-  border-bottom: 2px solid  #4b8056;
+  border-bottom: 2px solid  #7c3642;
   padding: 20px;
   text-align: center;
 }
@@ -16,7 +16,7 @@ header {
 header h1 {
   margin: 0;
   font-size: 24px;
-  color: #3d3d3d;
+  color: #a05662;
 }
 
 nav ul {
@@ -33,7 +33,7 @@ nav ul li {
 
 nav ul li a {
   text-decoration: none;
-  color: #4b8056;
+  color: #e25775;
   font-weight: bold;
 }
 
@@ -43,11 +43,11 @@ nav ul li a {
   justify-content: center;
   gap: 20px;
   padding: 40px 20px;
-  background: #c4ca70;
+  background: #dd486d;
 }
 
 .card {
-  background-color: #f9ffd4;
+  background-color: #a8456b;
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   text-align: center;
